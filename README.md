@@ -1,130 +1,130 @@
-# BOOKIZ
+# BOOKIZ, 아이와 함께 동화를 읽어보세요!
 
-![특화PJT_서울_1반_A103_UCC경진대회](/exec/특화PJT_서울_1반_A103_UCC경진대회.mp4)
-## 목차
+- 2022년 8월 22일 ~ 2022년 10월 7일
 
-1. [**서비스 소개**](#1)
-2. [**기술 스택**](#2)
-3. [**시스템 아키텍처**](#3)
-4. [**주요기능**](#4)
-5. [**협업 관리**](#5)
-6. [**개발 멤버 소개**](#6)
-7. [**프로젝트 기간**](#7)
-8. [**프로젝트 관련 문서**](#8)
+![메인](/image/부키즈.png)
 
-<br/>
+## 📋목차
 
-<div id="1"></div>
+1️⃣ <a href="#1️⃣-개요">개요</a>
 
-## 💡 서비스 소개
+2️⃣ <a href="#2️⃣-기술스택">기술스택</a>
 
-BOOKIZ는 아이와 교감하면서 실감나게 동화를 읽어주는 서비스입니다. <br />
-아이들에게 동화책을 직접 읽어줌으로써 얻을 수 있는 장점을 살리고, 동시에 부모님의 부담을 덜 수 있는 서비스를 기획하게 되었습니다.
+3️⃣ <a href="#3️⃣-아키텍처">아키텍처</a>
 
-<br/>
+4️⃣ <a href="#4️⃣-시연">시연</a>
 
-<div id="2"></div>
+5️⃣ <a href="#5️⃣-협업관리">협업관리</a>
 
-## 🛠️ 기술 스택
+6️⃣ <a href="#6️⃣-프로젝트-구성원">프로젝트 구성원</a>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<br />
-<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+7️⃣ <a href="#7️⃣-프로젝트-관련-문서">프로젝트 관련 문서</a>
+
 <br>
+
+## 1️⃣ 개요
+
+> BOOKIZ는 아이와 교감하면서 실감나게 동화를 읽어주는 서비스입니다.
+>
+>
+>아이들에게 동화책을 직접 읽어줌으로써 교감은 살리고,<br>
+어른의 부담을 덜 수 있는 서비스를 기획하게 되었습니다.
+
+<br>
+
+## 2️⃣ 기술스택
+
+<span>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white">
+</span>
+<br>
+<span>
+<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</span>
+<br>
+<span>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-993333?style=for-the-badge&logo=Jenkins&logoColor=white">
-<br />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/>
+</span>
+<br>
+<span>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<br />
+</span>
+<br>
 
 
-<br />
+<br>
 
-<div id="3"></div>
-
-## 🗂️ 시스템 아키텍처
+## 3️⃣ 아키텍처
 
 <img src="./image/architecture.png">
 
-<div id="4"></div>
+## 4️⃣ 시연
 
-## 🖥️ 기능
+### 🔸 UCC
 
-- 메인 페이지
+#### 👇Click!
+[![UCC](https://img.youtube.com/vi/v0n3zAQdq4w/0.jpg)](https://youtu.be/v0n3zAQdq4w)
+<br>
 
-  ![Jira](/image/mainpage.gif)
+### 🔸 메인 서비스 시연
+
+#### 메인 페이지
+
+![mainpage](/image/mainpage.gif)
+
+#### 도움말
+
+![help](/image/help.gif)
+
+#### 검색하기
+
+![search](/image/search.gif)
+
+#### 동화
+
+![play](/image/play.gif)
 
 
-- 도움말
-
-  ![Jira](/image/help.gif)
+<br>
 
 
-- 검색하기
-
-  ![Jira](/image/search.gif)
-
-
-- 동화
-
-  ![Jira](/image/play.gif)
-
-
-
-<br />
-
-<div id="5"></div>
-
-## 👥 협업 관리
+## 5️⃣ 협업관리
 
 - Jira Burndown Chart
 
-    ![Jira](/image/jira.gif)
+![Jira](/image/jira.gif)
 
-<br />
+<br>
 
-<div id="6"></div>
+## 6️⃣ 프로젝트 구성원
 
-## 👪 BOOKIZ 개발 멤버 소개
+| 이름 | 역할 |
+| --- | --- |
+| 👑하미르 | Back-End (STT) |
+| 👩김민지 | Front-End |
+| 👨김수환 | Front-End |
+| 👱이도경 | Back-End (TTS) |
+| 👲이종은 (me) | Back-End & Server |
+| 👶최병성 | Front-End |
 
-👦**하미르**: 팀장, BE, STT
+<br>
 
-👩**김민지**: FE, 디테일 페이지
 
-👨**김수환**: FE, 메인,목록 페이지
-
-👱**이도경**: BE, TTS
-
-👲**이종은**: BE, CI/CD
-
-👶**최병성**: FE, 동화 진행 페이지
-
-<br />
-
-<div id="7"></div>
-
-## 📆 프로젝트 기간
-
-**2022.08.22~2022.10.07**
-
-<br />
-
-<div id="8"></div>
-
-## 📁 프로젝트 관련 문서
+## 7️⃣ 프로젝트 관련 문서
 
 |                   링크                   |
 |:--------------------------------------:|
