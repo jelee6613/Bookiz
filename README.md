@@ -8,13 +8,15 @@
 
 1️⃣ <a href="#1️⃣-개요">개요</a>
 
-2️⃣ <a href="#2️⃣-기술스택--아키텍처">기술스택 & 아키텍처</a>
+2️⃣ <a href="#2️⃣-기술스택--기여도">기술스택 & 기여도</a>
 
-3️⃣ <a href="#3️⃣-시연">시연</a>
+3️⃣ <a href="#3️⃣-아키텍처">아키텍처</a>
 
-4️⃣ <a href="#4️⃣-개발자--협업관리">개발자 & 협업관리</a>
+4️⃣ <a href="#4️⃣-시연">시연</a>
 
-5️⃣ <a href="#5️⃣-프로젝트-관련-문서">프로젝트 관련 문서</a>
+5️⃣ <a href="#5️⃣-개발자--협업관리">개발자 & 협업관리</a>
+
+6️⃣ <a href="#6️⃣-프로젝트-관련-문서">프로젝트 관련 문서</a>
 
 <br>
 
@@ -28,7 +30,7 @@
 
 <br>
 
-## 2️⃣ 기술스택 & 아키텍처
+## 2️⃣ 기술스택 & 기여도
 
 ### 🔸 기술스택
 
@@ -62,7 +64,67 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </span>
 <br>
+<span>
+<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</span>
 
+### 🔸 기여도 (Back-End & Server)
+
+<span>
+<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</span>
+
+<br>
+
+<span>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-993333?style=for-the-badge&logo=Jenkins&logoColor=white">
+</span>
+
+<br>
+
+<span>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</span>
+
+<br>
+
+<span>
+<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+</span>
+
+
+#### ◼ 기획
+
+#### ◼ 설계
+
+◽ Figma 디자인
+
+◽ ERD 작성
+
+#### ◼ 개발
+
+◽ REST API 구축
+
+◽ RDBMS 관리
+
+◽ 서버 관리
+
+◽ CI/CD
+
+<br>
+
+## 3️⃣ 아키텍처
 
 ### 🔸 아키텍처
 
@@ -70,7 +132,7 @@
 
 <br>
 
-## 3️⃣ 시연
+## 4️⃣ 시연
 
 ### 🔸 UCC
 
@@ -100,7 +162,7 @@
 <br>
 
 
-## 4️⃣ 개발자 & 협업관리
+## 5️⃣ 개발자 & 협업관리
 
 ### 🔸 개발자
 
@@ -123,7 +185,7 @@
 
 <br>
 
-## 5️⃣ 프로젝트 관련 문서
+## 6️⃣ 프로젝트 관련 문서
 
 |                   링크                   |
 |:--------------------------------------:|
