@@ -126,8 +126,6 @@
 
 ## 3️⃣ 아키텍처
 
-### 🔸 아키텍처
-
 <img src="./image/architecture.png">
 
 <br>
