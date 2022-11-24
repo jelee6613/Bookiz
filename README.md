@@ -71,6 +71,14 @@
 
 ### 🔸 기여도 (Back-End & Server)
 
+> 백엔드와 AWS 기반 서버 관리를 담당했고, 구현 과정을 40페이지 분량의 PDF 문서로 작성해서 공유했습니다.
+> 
+> Spring boot와 서버 관리를 처음 담당했음에도 다른 백엔드 프레임워크의 동작 흐름을 비교해가며 빠르게 적응했습니다. 직전 프로젝트에서 프론트엔드를 담당한 경험으로 프론트엔드 개발자가 받아서 사용할 데이터 양식을 고려했고, 개발 1주차에 RDMBS 연결, RESTful API 구현에 성공했습니다. AWS로 옮기기 전까지 프론트엔드 개발자들의 원활한 작업을 위해 로컬에서 RDBMS 연결하는 방법을 메뉴얼로 작성해 공유했습니다.  
+> 👉 <a href="https://github.com/jelee6613/Bookiz/blob/main/bookiz_back/README.md" target="_blank">로컬에서 RDBMS 연결하는 방법</a>
+>
+> 팀 전체의 편리한 개발 환경을 위해 먼저 백엔드 수동 배포를 했고, 레퍼런스 자료를 참고해서 CI/CD를 구축했습니다. 처음 배운 기술 스택을 복기하고자 40페이지 분량의 PDF 파일을 작성했고, 이를 공유했습니다.  
+> 👉 <a href="https://algo-liashi.tistory.com/category/Devops/Pemkey 하나로 배포" target="_blank">CI/CD 구축 과정</a>
+
 <span>
 <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
