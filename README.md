@@ -150,23 +150,35 @@
 
 #### 메인 페이지
 
+> 베스트, 인기 테마별로 동화 목록과 상세 정보를 확인할 수 있습니다.
+
 ![mainpage](/image/mainpage.gif)
-
-#### 도움말
-
-![help](/image/help.gif)
-
-#### 검색하기
-
-![search](/image/search.gif)
-
-#### 동화
-
-![play](/image/play.gif)
-
 
 <br>
 
+#### 도움말
+
+> 오른쪽 상단 도움말 표시를 누르면 서비스 이용 방법을 확인할 수 있습니다.
+
+![help](/image/help.gif)
+
+<br>
+
+#### 검색하기
+
+> 원하는 동화 제목을 검색해서 찾을 수 있습니다.
+
+![search](/image/search.gif)
+
+<br>
+
+#### 동화 Play!
+
+> 동화 상세 정보에서 시작하기 버튼을 누르면 STT & TTS로 동화를 읽을 수 있습니다.
+
+![play](/image/play.gif)
+
+<br>
 
 ## 5️⃣ 개발자 & 협업관리
 
